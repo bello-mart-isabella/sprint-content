@@ -116,7 +116,7 @@ The formats below are to help you gather your thoughts, feel free to modify and 
 ### Lesson 1: WHAT: Intro to Open Science: What is it and what does it promote?
 
 
-<table>
+
   <tr>
    <td><strong>Lesson Outline</strong>
 <h4>Introduction</h4>
