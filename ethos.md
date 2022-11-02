@@ -452,19 +452,15 @@ responsible Open Science…
 … supports the key role of  science in addressing  major societal challenges in the 21st century (including climate change, sustainability)
 … makes your research more efficient and impactful and provides credit broadly
 responsible Open Science is the new normal,and regulatory and governing bodies are reaching a consensus toward pushing it).
-```
 
 
-Questions/Reflection:
 
-
-```
-
+#### Questions/Reflection:
 Why are responsible Open Science practices important to a researcher's profile? 
 How can a researcher benefit from responsible Open Science practices ? 
 How does society benefit from responsible Open Science? 
 In this lesson, we learned that responsible Open Science often takes time and requires diligence and dedication of researchers. Can you explain how and why?
-```
+
 ---
 
 
