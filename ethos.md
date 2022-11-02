@@ -340,23 +340,13 @@ As a researcher how do different components of responsible Open Science transfor
 We learned that there is "no one ethos" in this lesson. Can you explain what this means, and why? 
 ```
 
-
-
 ---
-
-
-### 
 
 
 ### Lesson 2: WHY: Benefits and Challenges of responsible Open Science: Why does it matter?
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Long single-cell table. Check to make sure this is meant to be a code block. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-```
-Introduction 
+### Introduction 
 
 In the previous lesson, we learned about foundational concepts that define Open Science. In this lesson, we address some benefits and challenges of working in the open.
 
@@ -475,9 +465,6 @@ How can a researcher benefit from responsible Open Science practices ?
 How does society benefit from responsible Open Science? 
 In this lesson, we learned that responsible Open Science often takes time and requires diligence and dedication of researchers. Can you explain how and why?
 ```
-
-
-
 ---
 
 
@@ -487,11 +474,6 @@ In this lesson, we learned that responsible Open Science often takes time and re
 ### Lesson 3: WHO: Stakeholders of Open Science: Who practices responsible Open Science and for whom?
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Long single-cell table. Check to make sure this is meant to be a code block. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-```
 Introduction
 In previous lessons, we learned about the concept and motivation and aspiration of open science. Now let's think about "who" is practicing open science and for whom.  In the first section of this lesson we dive deeper into understanding who the stakeholders for Open Science are. In the second part we cover essential topics about barriers to participation, and to  include diverse stakeholders in open science communities and ways to overcome them.
 
@@ -640,9 +622,6 @@ Explain multiple possible communication channels and strategies for researchers,
 
 
 
-```
-
-
 
 ---
 
@@ -652,12 +631,6 @@ Explain multiple possible communication channels and strategies for researchers,
 
 ### Lesson 4: WHERE: Impact of Open Science on academia,  communities and society as a whole: Where open science happens.
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Long single-cell table. Check to make sure this is meant to be a code block. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-```
 Introduction
 
 We have so far explored the fundamental parts of what Open Science is: why to pursue it and who the stakeholders of open research are. Where you are in the world when performing open science can have an impact on how you perform it, too. Laws across the world vary, and the advantage of open science means people from around the world can participate, co-create, and consume content together. This can affect your work from social and legal perspectives, and may present technical challenges as well. 
@@ -750,8 +723,6 @@ Bonus: You're working on an open science consortium that gathers data in the Net
 
 
 ### Lesson 5: HOW: 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Open Science resources & tools: How to get started"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Open Science resources & tools: How to get started](#heading=h.yeglp8w955sj) in responsible Open Science (doing open science responsibly) 
 
