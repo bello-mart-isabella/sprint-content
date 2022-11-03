@@ -601,13 +601,8 @@ In the second part of the lesson, we studied how diverse stakeholders can be inc
 
 To learn more about joining, contributing to, and creating your own communities, consider visiting the Tools module. 
 
-```
-
 
 Questions/Reflection:
-
-
-```
 
 
 What steps can you take to make these open science resources more inclusive? 
@@ -696,19 +691,18 @@ Organisation for Economic Co-operation and Development (OECD) and Open Science
 The OECD's recommendation regarding research data from public funding helped gain collaboration and global sharing of data as a policy priority, with the objective of making the global science system more effective and seamless. There has been progression in a number of OECD member states and partner economics, with 58 countries successfully delineating their policies for open data & research publications.
 For IT infrastructure,  academic institutions and data repositories, international networks have been established in the form of repository networks such as OpenAIRE.
 "Science clouds" - national and international computational resources -  are being initiated such as European Open Science Cloud, the Australian cloud NECTAR, the National Research Data Infrastructure in Germany, the National Institute of Health Data Commons in the USA & Research Center for Open Science and Data Platform in Japan.
-```
+
 
 
 Questions/Reflection:
 
 
-```
 
 What strengths do marginalized communities bring to open science? What challenges may they face compared to privileged communities? 
 Name at least one data privacy law, and describe ways you can keep personal data safe. Do all countries have data privacy laws? 
 Bonus: You're working on an open science consortium that gathers data in the Netherlands, Kenya, and India. You plan to use servers in the EU to store your data. What concerns should you take into account? 
 
-```
+
 
 
 
